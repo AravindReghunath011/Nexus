@@ -45,9 +45,9 @@ const Navbar = () => {
       transition={{ duration: 0.3 }}
     >
       <div className='flex items-center justify-between w-[90%] m-auto font-semibold'>
-        <div className='w-44 border bg-[#e6d3b0] text-black h-14 rounded-full flex justify-center items-center'>LOGO</div>
-        <div className='w-[30vw] bg-[#e6d3b0] text-black border h-14 rounded-full flex justify-center items-center'>
-          <div className="flex justify-around w-full">
+        <div className='w-44 border bg-[#e6d3b0] text-black h-14 rounded-full flex justify-center items-center font-clash-medium'>LOGO</div>
+        <div className='w-[30vw] bg-stone-300 text-black border h-14 rounded-full flex justify-center items-center'>
+          <div className="flex justify-around w-full font-clash-medium">
             <span>ABOUT</span>
             <span>WORKS</span>
             <span>CONNECT</span>
